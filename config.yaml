@@ -1,4 +1,4 @@
-baseurl: https:/example.com
+baseurl: https://manyedong-rendezvous.netlify.app
 languageCode: en-us
 theme: "hugo-theme-stack"
 paginate: 5
