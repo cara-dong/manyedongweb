@@ -2,7 +2,7 @@ baseurl: https://manyedong-rendezvous.netlify.app
 languageCode: en-us
 theme: "hugo-theme-stack"
 paginate: 5
-title: manyedong-rendezvous
+title: manyedong
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 
 languages:
