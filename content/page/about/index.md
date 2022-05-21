@@ -4,7 +4,7 @@ aliases:
 - about-hugo
 - contact
 date: "2019-02-28"
-description: Hugo, the world's fastest framework for building websites
+description: Hugo yehay
 lastmod: "2020-10-09"
 license: CC BY-NC-ND
 menu:
