@@ -2,23 +2,18 @@ baseurl: https://manyedong-rendezvous.netlify.app
 languageCode: en-us
 theme: "hugo-theme-stack"
 paginate: 5
-title: Example Site
+title: manyedong-rendezvous
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 
 languages:
     en:
         languageName: English
-        title: Example Site
+        title: Manye(Cara) Dong
         weight: 1
     zh-cn:
         languageName: 中文
-        title: 演示站点
+        title: 董蔓烨
         weight: 2
-    ar:
-        languageName: عربي
-        languagedirection: rtl
-        title: موقع تجريبي
-        weight: 3
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
@@ -46,7 +41,7 @@ params:
     favicon:
 
     footer:
-        since: 2020
+        since: 2022
         customText:
 
     dateFormat:
@@ -55,11 +50,11 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: "Sabemos perfectamente que no existen más que tres temas básicos: el amor, la vida y la muerte.--Juan Rulfo"
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: content/avatar.jpg
 
     article:
         math: false
@@ -198,15 +193,15 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/cara-dong
           params:
               icon: brand-github
 
-        - identifier: twitter
-          name: Twitter
-          url: https://twitter.com
+        - identifier: instagram
+          name: Instagram
+          url: https://www.instagram.com/cara.dongg/
           params:
-              icon: brand-twitter
+              icon: brand-intagram
 
 related:
     includeNewer: true
